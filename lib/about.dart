@@ -37,7 +37,7 @@ class AboutPage extends StatelessWidget {
               height: 300.0,
               child: Center(
                 child: VStack([
-                  "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology. I love development, be it website's or apps and also ui designing. I Love open source sofware."
+                  "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology. I love development, be it website's or apps and also ui designing. I love open source software."
                       .text
                       .xl2
                       .black
@@ -121,7 +121,7 @@ class AboutPage extends StatelessWidget {
                             .xl
                             .gray700
                             .make(),
-                        "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology.\nI love development, be it website's or apps and also ui designing. I Love open source sofware."
+                        "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology.\nI love development, be it website's or apps and also ui designing. I Love open source software."
                             .text
                             .xl2
                             .black
@@ -176,7 +176,7 @@ class AboutPage extends StatelessWidget {
                               .xl
                               .gray700
                               .make(),
-                          "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology.\nI love development, be it website's or apps and also ui designing. I Love open source sofware."
+                          "Currently pursuing Degree in Computer Engineering. Have a keen interest in programming and playing around with technology.\nI love development, be it website's or apps and also ui designing. I Love open source software."
                               .text
                               .xl2
                               .black

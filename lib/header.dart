@@ -167,7 +167,7 @@ class IntroductionWidget extends StatelessWidget {
         [
           "- Introduction".text.black.widest.sm.make(),
           10.heightBox,
-          "A Cross Platform Developer & Mentor. \nLove to mess with technologies,\nIn love with open source software softwares & application."
+          "A Cross Platform Developer & Mentor. \nLove to mess with technologies,\nIn love with open source software & application."
               .text
               .gray700
               .xl3
